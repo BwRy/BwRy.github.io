@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just a blog for notes on non-exploitable vulnerabilities, security research and other code I've developed over the years. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+What you find here isn't ```as-is```, once I flesh out my posts I'll add an email I'm comfortable with sharing.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@dont.doit](mailto:email@dont.doit)
